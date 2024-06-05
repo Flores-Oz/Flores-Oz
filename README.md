@@ -1,5 +1,5 @@
 # 💫 About Me:
-¡Hola! Soy Oscar, un joven programador apasionado por la tecnología y el aprendizaje continuo. Siempre estoy buscando nuevas oportunidades para mejorar mis habilidades y colaborar en proyectos interesantes
+¡Hola! Soy OZ, un joven programador apasionado por la tecnología y el aprendizaje continuo. Siempre estoy buscando nuevas oportunidades para mejorar mis habilidades y colaborar en proyectos interesantes
 
 
 # 💻 Tech Stack:
