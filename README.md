@@ -10,7 +10,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Flores-Oz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+<img src='https://64.media.tumblr.com/38faa681d7e2c2c2ca3f338e3f0c5e1e/tumblr_ppccqw16kS1s9o2o3o5_500.gifv' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Flores-Oz&icon=2&color=7)](https://visitcount.itsvg.in)
