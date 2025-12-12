@@ -1,5 +1,5 @@
 # 💫 About Me:
-¡Hola! Soy OZ, un joven programador apasionado por la tecnología y el aprendizaje continuo. Siempre estoy buscando nuevas oportunidades para mejorar mis habilidades y colaborar en proyectos interesantes
+¡Hola! Soy Flores, un programador apasionado por la tecnología y el aprendizaje continuo. Siempre estoy buscando nuevas oportunidades para mejorar mis habilidades y colaborar en proyectos interesantes
 
 
 # 💻 Tech Stack:
@@ -8,10 +8,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Flores-Oz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Flores-Oz&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Flores-Oz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### I'm just a passing-through Programmer. Remember that! 
-<img src='https://64.media.tumblr.com/38faa681d7e2c2c2ca3f338e3f0c5e1e/tumblr_ppccqw16kS1s9o2o3o5_500.gifv' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Flores-Oz&icon=2&color=7)](https://visitcount.itsvg.in)
 
